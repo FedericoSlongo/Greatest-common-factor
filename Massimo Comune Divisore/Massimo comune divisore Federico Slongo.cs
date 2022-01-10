@@ -13,12 +13,12 @@ namespace Massimo_Comune_Divisore
             int a, b;
             do
             {
-                Console.WriteLine("Inserire il primo numero");
+                Console.WriteLine("Insert the first number");
             } while (!int.TryParse(Console.ReadLine(), out a));
 
             do
             {
-                Console.WriteLine("Inserire il secondo numero");
+                Console.WriteLine("Insert the second number");
             } while (!int.TryParse(Console.ReadLine(), out b));
 
             do
@@ -39,7 +39,7 @@ namespace Massimo_Comune_Divisore
                 }
             } while (!(a == b));
 
-            Console.WriteLine($"{a} è il comune divisore");
+            Console.WriteLine($"{a} is the greatest common factor");
 
             Console.ReadKey();
         }
