@@ -1,0 +1,7 @@
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\bin\Debug\Massimo Comune Divisore.exe.config
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\bin\Debug\Massimo Comune Divisore.exe
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\bin\Debug\Massimo Comune Divisore.pdb
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\obj\Debug\Massimo Comune Divisore.csproj.AssemblyReference.cache
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\obj\Debug\Massimo Comune Divisore.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\obj\Debug\Massimo Comune Divisore.exe
+C:\Users\fslongo\source\repos\Massimo Comune Divisore\Massimo Comune Divisore\obj\Debug\Massimo Comune Divisore.pdb
